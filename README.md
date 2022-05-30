@@ -1,5 +1,5 @@
 👋 Hey, I’m Simon @coding-with-coffee  
-I’m interested in cyber security, forensics etc. Still on my way though.  
+Cyber security, forensics etc. Still on my way though.  
 Coffee lover ;)
 
 

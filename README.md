@@ -1,5 +1,5 @@
 👋 Hey, I’m Simon @simon-cybersec  
-Cyber security, forensics etc. Still on my way though.  
+Embedded Systems Engineer with focus on security. 
 Coffee lover ;)
 
 

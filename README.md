@@ -1,7 +1,5 @@
 👋 Hey, I’m Simon @simon-cybersec  
-Embedded Systems Engineer with focus on security. 
-Coffee lover ;)
-
+Embedded Systems Engineer with focus on security.
 
 Twitter: @simon_cybersec  
 Email: CoffeeAndCoding@t-online.de  
